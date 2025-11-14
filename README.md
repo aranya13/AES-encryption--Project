@@ -21,4 +21,4 @@
 Arpit Gupta - - arpitgupta4957@gmail.com
 Aranya Bahuguna - - bahugunaaranya@gmail.com
 
-Project Link: [https://github.com/ArpitGupta4957/DSN-Project](https://github.com/ArpitGupta4957/DSN-Project)
+Project Link: https://arpitgupta4957.github.io/DSN-Project/
